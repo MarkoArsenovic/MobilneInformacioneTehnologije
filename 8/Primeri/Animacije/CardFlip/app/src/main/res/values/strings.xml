@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Card Flip</string>
+    <string name="android_joke">An Android app walks into a bar.\nBartender asks, "Can I get you a drink?"\nThe app looks disappointed and says, "That wasn't my intent."</string>
+    <string name="iphone_joke"></string>
+</resources>
