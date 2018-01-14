@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "36039108471",
+    "firebase_url": "https://memkeeper-96211.firebaseio.com",
+    "project_id": "memkeeper-96211",
+    "storage_bucket": "memkeeper-96211.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36039108471:android:4273917feee7ef48",
+        "android_client_info": {
+          "package_name": "com.androidvezbe.ftn.memory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36039108471-cqv9n8evr0alordpgfb302281cuav41e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidvezbe.ftn.memory",
+            "certificate_hash": "2b555364a1cd8da5e1506ede106a385d4cec9753"
+          }
+        },
+        {
+          "client_id": "36039108471-g1unr269olj2fv33690t2a54qk30fr2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLkLLWjp7Fk7sCer0TohsX1Wm6WRNcNp4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36039108471-g1unr269olj2fv33690t2a54qk30fr2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

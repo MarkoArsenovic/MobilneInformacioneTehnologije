@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Moja Korpa</string>
+    <string name="action_settings">Podesavanja</string>
+    <string name="add_item">Dodaj prvu stavku</string>
+    <string name="enter_item">Unesi stavku</string>
+    <string name="hint_item">Unesi stavku</string>
+    <string name="quantity_hint">Kolicina</string>
+    <string name="save_title">Sacvaj</string>
+    <string name="title_activity_list">Moje stavke</string>
+    <string name="sure_text">Da li ste sigurni?</string>
+    <string name="no">Ne</string>
+    <string name="yes">Da</string>
+</resources>

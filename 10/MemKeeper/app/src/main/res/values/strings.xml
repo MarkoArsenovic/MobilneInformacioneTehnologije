@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MemKeeper</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_title">Login</string>
+    <string name="create_act">Kreiranje Naloga</string>
+    <string name="post_title">Naslov trenutka...</string>
+    <string name="post_description">Opis trenutka...</string>
+    <string name="submit_text">Sacuvaj</string>
+    <string name="firstName">Ime</string>
+    <string name="last_name">Prezime</string>
+    <string name="submit_cancel">Odustani</string>
+</resources>

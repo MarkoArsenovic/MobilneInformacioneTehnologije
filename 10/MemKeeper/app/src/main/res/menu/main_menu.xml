@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:background="?colorPrimary"
+        android:layout_height="?actionBarSize">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:id="@+id/icon"
+            android:src="@mipmap/default_image"
+            android:layout_height="match_parent" />
+    </android.support.v7.widget.Toolbar>
+    <item android:id="@+id/action_add"
+        android:icon="@mipmap/ic_add_white_24dp"
+        android:title="Add Post"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/action_signout"
+        android:title="Signout"
+        app:showAsAction="never" />
+
+</menu>
+
